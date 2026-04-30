@@ -162,7 +162,7 @@ Recharts is built natively for React — each chart element is a React component
 
 **Nsiripothu**
 - GitHub: [@nsiripothu-8447](https://github.com/nsiripothu-8447)
-- Live Project: [Finora on Vercel](https://finance-dashboard-mv7yoktyf-nsiripothu-8447s-projects.vercel.app/)
+- Live Project: [Finora on Vercel](https://finance-dashboard-git-main-nsiripothu-8447s-projects.vercel.app/)
 
 ---
 
